@@ -17,7 +17,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven("https://jitpack.io")   // ← 🔴 BUNU EKLE
+        maven("https://jitpack.io")
     }
 }
 
