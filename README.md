@@ -15,7 +15,8 @@ Bu proje, Eti Maden’de gerçekleştirdiğim staj çalışmasının bir çıkt�
 
 - ## 📷 Ekran Görüntüleri
 > Projeden bazı ekran görüntüleri:  
-<img width="414" height="861" alt="Ekran görüntüsü 2025-08-29 112540" src="https://github.com/user-attachments/assets/d193380e-d84f-4b00-a5d1-9cdecd17265a" />
+<img width="414" height="861" alt="Ekran görüntüsü 2025-08-29 112540" src="https://github.com/user-attachments/assets/d193380e-d84f-4b00-a5d1-9cdecd17265a"
+  /><img width="423" height="854" alt="Ekran görüntüsü 2025-08-29 113255" src="https://github.com/user-attachments/assets/276002a7-cc38-4dd3-beda-95efbafe73b4" />
 <img width="414" height="861" alt="Ekran görüntüsü 2025-08-29 112540" src="https://github.com/user-attachments/assets/4f23cb65-af22-4c2c-af14-b5225690bafb" />
 <img width="407" height="856" alt="Ekran görüntüsü 2025-08-29 112629" src="https://github.com/user-attachments/assets/f4650224-177c-4ee7-9538-38abd252dbdb" />
 
